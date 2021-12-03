@@ -1,0 +1,11 @@
+C:\ProgStorage\ReverseKinematics\ReverseKinematics\obj\Debug\ReverseKinematics.csproj.AssemblyReference.cache
+C:\ProgStorage\ReverseKinematics\ReverseKinematics\obj\Debug\ReverseKinematics.csproj.SuggestedBindingRedirects.cache
+C:\ProgStorage\ReverseKinematics\ReverseKinematics\obj\Debug\ReverseKinematics.Form1.resources
+C:\ProgStorage\ReverseKinematics\ReverseKinematics\obj\Debug\ReverseKinematics.Properties.Resources.resources
+C:\ProgStorage\ReverseKinematics\ReverseKinematics\obj\Debug\ReverseKinematics.csproj.GenerateResource.cache
+C:\ProgStorage\ReverseKinematics\ReverseKinematics\obj\Debug\ReverseKinematics.csproj.CoreCompileInputs.cache
+C:\ProgStorage\ReverseKinematics\ReverseKinematics\bin\Debug\ReverseKinematics.exe.config
+C:\ProgStorage\ReverseKinematics\ReverseKinematics\bin\Debug\ReverseKinematics.exe
+C:\ProgStorage\ReverseKinematics\ReverseKinematics\bin\Debug\ReverseKinematics.pdb
+C:\ProgStorage\ReverseKinematics\ReverseKinematics\obj\Debug\ReverseKinematics.exe
+C:\ProgStorage\ReverseKinematics\ReverseKinematics\obj\Debug\ReverseKinematics.pdb

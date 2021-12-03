@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseKinematics", "ReverseKinematics\ReverseKinematics.csproj", "{3CFD24DA-4F89-4564-B072-E0820578ECE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CFD24DA-4F89-4564-B072-E0820578ECE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFD24DA-4F89-4564-B072-E0820578ECE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFD24DA-4F89-4564-B072-E0820578ECE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFD24DA-4F89-4564-B072-E0820578ECE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {496C70C8-224B-4513-8011-3EB5CBCB117F}
+	EndGlobalSection
+EndGlobal
