@@ -9,3 +9,13 @@ C:\ProgStorage\ReverseKinematics\ReverseKinematics\bin\Debug\ReverseKinematics.e
 C:\ProgStorage\ReverseKinematics\ReverseKinematics\bin\Debug\ReverseKinematics.pdb
 C:\ProgStorage\ReverseKinematics\ReverseKinematics\obj\Debug\ReverseKinematics.exe
 C:\ProgStorage\ReverseKinematics\ReverseKinematics\obj\Debug\ReverseKinematics.pdb
+D:\ProgrammingStorage\2021\InverseKinematicsC-\ReverseKinematics\bin\Debug\ReverseKinematics.exe.config
+D:\ProgrammingStorage\2021\InverseKinematicsC-\ReverseKinematics\bin\Debug\ReverseKinematics.exe
+D:\ProgrammingStorage\2021\InverseKinematicsC-\ReverseKinematics\bin\Debug\ReverseKinematics.pdb
+D:\ProgrammingStorage\2021\InverseKinematicsC-\ReverseKinematics\obj\Debug\ReverseKinematics.csproj.AssemblyReference.cache
+D:\ProgrammingStorage\2021\InverseKinematicsC-\ReverseKinematics\obj\Debug\ReverseKinematics.Form1.resources
+D:\ProgrammingStorage\2021\InverseKinematicsC-\ReverseKinematics\obj\Debug\ReverseKinematics.Properties.Resources.resources
+D:\ProgrammingStorage\2021\InverseKinematicsC-\ReverseKinematics\obj\Debug\ReverseKinematics.csproj.GenerateResource.cache
+D:\ProgrammingStorage\2021\InverseKinematicsC-\ReverseKinematics\obj\Debug\ReverseKinematics.csproj.CoreCompileInputs.cache
+D:\ProgrammingStorage\2021\InverseKinematicsC-\ReverseKinematics\obj\Debug\ReverseKinematics.exe
+D:\ProgrammingStorage\2021\InverseKinematicsC-\ReverseKinematics\obj\Debug\ReverseKinematics.pdb
